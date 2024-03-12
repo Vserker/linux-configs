@@ -12,4 +12,5 @@ ScreenShot:
 
 ![image](https://github.com/Vserker/linux-configs/assets/136329414/96a5f0e1-79ee-4b37-8120-8c8b05f348ab)
 
+Now, hack me with the info on the screenshot! Its a challenge.
 
