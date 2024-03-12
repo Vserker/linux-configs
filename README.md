@@ -7,3 +7,7 @@ config.py = configuration file of Qtile windows manager.
 .bashrc = configuration file of Bash shell. Loads each time you start a terminal/bash shell.
 .xinitrc = configuration file of X11 windows manager.
 
+
+ScreenShot:
+
+https://github.com/Vserker/linux-configs/raw/main/screenshot
