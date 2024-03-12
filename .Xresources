@@ -1,0 +1,118 @@
+!##########################################################
+!urxvt
+!##########################################################
+!scroll
+!urxvt.jumpScroll:false
+!urxvt.skipScroll:True
+!urxvt.scrollstyle:plain
+!urxvt.thickness:8
+urxvt.scrollBar:False
+!urxvt.scrollBar_right:True
+urxvt.scrollTtyOutput:True
+urxvt.scrollWithBuffer:true
+!urxvt.scrollTtyKeypress:true
+!urxvt.saveLines:8000
+!urxvt.mouseWheelScrollPage:true
+
+!Geometry
+!second one will make us be able to align the geometry a little to the top: How does this work though?
+!urxvt.geometry:100x100
+urxvt.geometry:180x35
+
+!Transparancy:
+urxvt*inheritPixmap: true
+urxvt*transparent: true
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+urxvt*shading: 10
+
+!Color
+!Black:
+*color0: #000000
+*color8: #2a2a2a
+
+!Red:
+*color1: #ff3939
+*color9: #ff4747
+!color9 should be the lighter red but its magneta
+
+!Green:
+*color2: #03ff5e
+*color10: #1af62a
+
+!Yellow:
+*color3: #c1c238
+*color11: #faff4f
+
+!Blue:
+*color4: #68b7ff
+*color12: #00c9ea
+
+!Megneta:
+*color5: #e621f0
+*color13: #ff2dea
+
+!Cyan:
+*color6: #afafaf
+*color14: #888787
+!these are actually orange colors
+
+!White:
+*color7: #CCCCCC
+*color15: #A8A8A8
+
+urxvt.foreground:#9b9b9b
+urxvt.colorBD:#494949
+!urxvt.colorIT:#e61616
+!urxvt.colorUL:#ffaa00
+!urxvt.underlineColor:#cccc00
+!urxvt.highlightColor:#555555
+!urxvt.highlightTextColor:#000000
+urxvt.fading:10
+urxvt.fadeColor:black
+!urxvt.scrollColor:#666666
+!urxvt.troughColor: colour
+!urxvt.borderColor: colour
+urxvt.internalBorder:4
+!Font
+urxvt.font:xft:JetBrains Mono:style=Bold:pixelsize=12
+!urxvt.boldFont:xft:NotoSansMonoCJKSC:pixelsize=18
+!urxvt.italicFont:xft:NotoSansMonoCJKSC:pixelsize=18
+!urxvt.boldItalicFont:xft:NotoSansMonoCJKSC:pixelsize=18
+urxvt.letterSpace:0
+urxvt.lineSpace:0
+
+!Cursor&Pointeri
+urxvt.cursorColor:#2dff8c
+!urxvt.cursorBlink:true
+!urxvt.cursorUnderline:false
+!urxvt.pointerBlank:
+!urxvt.pointerColor:
+!urxvt.pointerColor2:
+!urxvt.pointerShape:
+!urxvt.pointerBlankDelay:
+
+!Select&Perl-ext
+!urxvt.cutchars:
+!urxvt.tripleclickwords:true
+!urxvt.perl-ext-common:
+!urxvt.perl-ext:
+!urxvt.perl-eval:
+!urxvt.perl-lib:
+!urxvt.selection.pattern-idx:
+!urxvt.selection-autotransform.idx:
+!urxvt.searchable-scrollback:
+
+!BACKGROUND IMAGE
+!urxvt.
+!urxvt.
+
+!other
+!urxvt.depth: 32
+!urxvt.pastableTabs:false
+!urxvt.preeditType:Root
+urxvt.url-Launcher:firefox
+
+
+
+!!##########################################################
+!!END OF FILE
