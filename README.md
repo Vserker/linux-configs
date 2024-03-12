@@ -10,4 +10,6 @@ config.py = configuration file of Qtile windows manager.
 
 ScreenShot:
 
-https://github.com/Vserker/linux-configs/raw/main/screenshot
+![image](https://github.com/Vserker/linux-configs/assets/136329414/96a5f0e1-79ee-4b37-8120-8c8b05f348ab)
+
+
